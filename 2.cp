@@ -6,11 +6,11 @@ using namespace std;
 
 int main()
 {
-    char x; //Declara la variable x
+    char x; /*Declara la variable x*/
     cout << "Escribe un caracter, puta...";
-    cin >> x; //Lee la introduccion del teclado y lo graba en x
-    cout << "Hola"; //Escribe Hola en pantalla
-    cout << x; //Escribe lo que tenga guardado x en pantalla
-    system("PAUSE"); //Detiene el programa antes de acabar
-    return 0; //El programa no devuelve ningun valor
+    cin >> x; /*Lee la introduccion del teclado y lo graba en x*/
+    cout << "Hola"; /*Escribe Hola en pantalla*/
+    cout << x; /*Escribe lo que tenga guardado x en pantalla*/
+    system("PAUSE"); /*Detiene el programa antes de acabar*/
+    return 0; /*El programa no devuelve ningun valor*/
 }
